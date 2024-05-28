@@ -1,2 +1,2 @@
 # Dashboard
-Overview report of sales data in 7 minutes
+Overview report of sales data done in 7 minutes
